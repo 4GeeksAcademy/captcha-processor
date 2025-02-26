@@ -1,3 +1,6 @@
 __pycache__
 .env
 .learn
+src\kaggle.json
+kaggle.json
+data
