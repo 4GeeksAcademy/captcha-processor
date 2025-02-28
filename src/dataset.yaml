@@ -1,7 +1,7 @@
 path: . 
-train: C:/4Geeks/Projects/captcha-processor/data/raw/images/train
-val: C:/4Geeks/Projects/captcha-processor/data/raw/images/val
-nc: 54
+train: images/train
+val: images/val
+test: images/test
 
 names:
     0: 2
