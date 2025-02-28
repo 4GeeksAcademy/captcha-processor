@@ -1,7 +1,6 @@
 path: . 
-train: images/train
-val: images/val
-test: images/test
+train: C:/4Geeks/Projects/captcha-processor/data/raw/images/train
+val: C:/4Geeks/Projects/captcha-processor/data/raw/images/val
 
 names:
     0: 2
