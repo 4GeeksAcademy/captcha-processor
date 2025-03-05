@@ -1,6 +1,7 @@
-path: . 
-train: C:/4Geeks/Projects/captcha-processor/data/raw/images/train
-val: C:/4Geeks/Projects/captcha-processor/data/raw/images/val
+# path: . 
+train: C:/Users/tisor/Projects/captcha-processor/captcha-processor/data/raw/images/train
+val: C:/Users/tisor/Projects/captcha-processor/captcha-processor/data/raw/images/val
+test: C:/Users/tisor/Projects/captcha-processor/captcha-processor/data/raw/images/test
 
 names:
     0: 2
